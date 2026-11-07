@@ -15,7 +15,7 @@ Keuntungan Prompt Engineering
 Meningkatkan performa akurasi pada AI model, Mengurangi bias dan respon yang offensive, Meningkatkan kontrol dan predictability ,Memberikan pengalaman yang lebih berkualitas
 
 Kemudian terdapat materi tentang menjelaskan tentang Git
-Git adalah version control system—yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam suatu file Git diciptakan oleh Linus Torvalds pada tahun 2005. Alat ini dirancang untuk mencatat setiap perubahan yang terjadi pada sebuah file.
+Git adalah version control system yang melacak siapa, kapan, dan apa saja yang sudah diubah dalam suatu file Git diciptakan oleh Linus Torvalds pada tahun 2005. Alat ini dirancang untuk mencatat setiap perubahan yang terjadi pada sebuah file.
 
 Git Workflow
 Working directory/tree adalah salinan dari satu versi projek yang sedang kamu kerjakan. File-file di dalamnya diambil dari database yang tersimpan di direktori Git, kemudian ditempatkan di komputer agar dapat digunakan atau dimodifikasi.
